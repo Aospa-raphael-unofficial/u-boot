@@ -44,6 +44,7 @@
 *.ti-*
 # Build tree
 /build*
+!/build-raphael-bootimg.sh
 
 #
 # Top-level generic files
